@@ -1,4 +1,1 @@
-lamani-web
-==========
-
-LaManiWeb
+# LaMani
